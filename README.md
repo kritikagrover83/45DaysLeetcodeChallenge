@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
