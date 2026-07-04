@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0065-valid-number) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/kritikagrover83/45DaysLeetcodeChallenge/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
